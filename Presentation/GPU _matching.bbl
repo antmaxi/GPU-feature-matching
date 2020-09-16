@@ -1,0 +1,658 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{HPatches}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BV}{%
+         family={Balntas},
+         familyi={B\bibinitperiod},
+         given={Vassileios},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Lenc},
+         familyi={L\bibinitperiod},
+         given={Karel},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vedaldi},
+         familyi={V\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Mikolajczyk},
+         familyi={M\bibinitperiod},
+         given={Krystian},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BV+1}
+    \strng{fullhash}{BVLKVAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1109/TPAMI.2019.2915233
+    \endverb
+    \field{title}{HPatches: A benchmark and evaluation of handcrafted and
+  learned local descriptors}
+    \field{volume}{PP}
+    \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}
+    \field{month}{04}
+    \field{year}{2017}
+  \endentry
+
+  \entry{cascade_hashing}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=CJ}{%
+         family={{Cheng}},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={{Leng}},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={{Wu}},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={{Cui}},
+         familyi={C\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={{Lu}},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJLCWJCHLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{2014 IEEE Conference on Computer Vision and Pattern
+  Recognition}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{Fast and Accurate Image Matching with Cascade Hashing for 3D
+  Reconstruction}
+    \field{year}{2014}
+  \endentry
+
+  \entry{DeTone2018SuperPointSI}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DD}{%
+         family={DeTone},
+         familyi={D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Malisiewicz},
+         familyi={M\bibinitperiod},
+         given={Tomasz},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rabinovich},
+         familyi={R\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DDMTRA1}
+    \strng{fullhash}{DDMTRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{337\bibrangedash 33712}
+    \field{title}{SuperPoint: Self-Supervised Interest Point Detection and
+  Description}
+    \field{journaltitle}{2018 IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition Workshops (CVPRW)}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Dusmanu2019D2NetAT}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DM}{%
+         family={Dusmanu},
+         familyi={D\bibinitperiod},
+         given={Mihai},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RI}{%
+         family={Rocco},
+         familyi={R\bibinitperiod},
+         given={Ignacio},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Pajdla},
+         familyi={P\bibinitperiod},
+         given={Tom{\'a}s},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pollefeys},
+         familyi={P\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sivic},
+         familyi={S\bibinitperiod},
+         given={Josef},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Torii},
+         familyi={T\bibinitperiod},
+         given={Akihiko},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Sattler},
+         familyi={S\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DM+1}
+    \strng{fullhash}{DMRIPTPMSJTAST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{D2-Net: A Trainable CNN for Joint Detection and Description
+  of Local Features}
+    \field{volume}{abs/1905.03561}
+    \field{journaltitle}{ArXiv}
+    \field{year}{2019}
+  \endentry
+
+  \entry{GPU_VIO}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=NB}{%
+         family={Nagy},
+         familyi={N\bibinitperiod},
+         given={Balazs},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FP}{%
+         family={Foehn},
+         familyi={F\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Scaramuzza},
+         familyi={S\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NBFPSD1}
+    \strng{fullhash}{NBFPSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{eprint}
+    \verb 2003.13493
+    \endverb
+    \field{title}{Faster than FAST: GPU-Accelerated Frontend for High-Speed
+  VIO}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2020}
+  \endentry
+
+  \entry{R2D2}{incollection}{}
+    \name{author}{4}{}{%
+      {{hash=RJ}{%
+         family={Revaud},
+         familyi={R\bibinitperiod},
+         given={Jerome},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DSC}{%
+         family={De\bibnamedelima Souza},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Cesar},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Humenberger},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Weinzaepfel},
+         familyi={W\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{6}{}{%
+      {{hash=WH}{%
+         family={Wallach},
+         familyi={W\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Larochelle},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Beygelzimer},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=dABF}{%
+         prefix={d\textquotesingle},
+         prefixi={d\bibinitperiod},
+         family={Alch\'{e}-Buc},
+         familyi={A\bibinitperiod-B\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=FE}{%
+         family={Fox},
+         familyi={F\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Garnett},
+         familyi={G\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Curran Associates, Inc.}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJDSCHMWP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{Advances in Neural Information Processing Systems 32}
+    \field{pages}{12405\bibrangedash 12415}
+    \field{title}{R2D2: Reliable and Repeatable Detector and Descriptor}
+    \verb{url}
+    \verb http://papers.nips.cc/paper/9407-r2d2-reliable-and-repeatable-detecto
+    \verb r-and-descriptor.pdf
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{Sarlin2019b}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SPE}{%
+         family={Sarlin},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima Edouard},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cadena},
+         familyi={C\bibinitperiod},
+         given={Cesar},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Siegwart},
+         familyi={S\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dymczyk},
+         familyi={D\bibinitperiod},
+         given={Marcin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Categorization,Datasets and Evaluation,Deep Learning,Recognition:
+  Detection,Retrieval,Robotics + Driving,Vision A}
+    \strng{namehash}{SPE+1}
+    \strng{fullhash}{SPECCSRDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Robust and accurate visual localization is a fundamental capability for
+  numerous applications, such as autonomous driving, mobile robotics, or
+  augmented reality. It remains, however, a challenging task, particularly for
+  large-scale environments and in presence of significant appearance changes.
+  State-of-the-art methods not only struggle with such scenarios, but are often
+  too resource intensive for certain real-time applications. In this paper we
+  propose HF-Net, a hierarchical localization approach based on a monolithic
+  CNN that simultaneously predicts local features and global descriptors for
+  accurate 6-DoF localization. We exploit the coarse-to-fine localization
+  paradigm: We first perform a global retrieval to obtain location hypotheses
+  and only later match local features within those candidate places. This
+  hierarchical approach incurs significant runtime savings and makes our system
+  suitable for real-time operation. By leveraging learned descriptors, our
+  method achieves remarkable localization robustness across large variations of
+  appearance and sets a new state-of-the-art on two challenging benchmarks for
+  large-scale localization.%
+    }
+    \verb{doi}
+    \verb 10.1109/CVPR.2019.01300
+    \endverb
+    \verb{eprint}
+    \verb 1812.03506
+    \endverb
+    \field{isbn}{9781728132938}
+    \field{issn}{10636919}
+    \field{pages}{12708\bibrangedash 12717}
+    \field{title}{{From coarse to fine: Robust hierarchical localization at
+  large scale}}
+    \field{volume}{2019-June}
+    \verb{file}
+    \verb :home/anton/Documents/ETH{\_}books/Seminar in Robotics/Marcin/From Co
+    \verb arse to Fine$\backslash$: Robust Hierarchical Localization at Large S
+    \verb cale.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition}
+    \field{eprinttype}{arXiv}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Sarlin2019a}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SPE}{%
+         family={Sarlin},
+         familyi={S\bibinitperiod},
+         given={Paul-Edouard},
+         giveni={P\bibinitperiod-E\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={DeTone},
+         familyi={D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Malisiewicz},
+         familyi={M\bibinitperiod},
+         given={Tomasz},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rabinovich},
+         familyi={R\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPE+1}
+    \strng{fullhash}{SPEDDMTRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This paper introduces SuperGlue, a neural network that matches two sets of
+  local features by jointly finding correspondences and rejecting non-matchable
+  points. Assignments are estimated by solving a differentiable optimal
+  transport problem, whose costs are predicted by a graph neural network. We
+  introduce a flexible context aggregation mechanism based on attention,
+  enabling SuperGlue to reason about the underlying 3D scene and feature
+  assignments jointly. Compared to traditional, hand-designed heuristics, our
+  technique learns priors over geometric transformations and regularities of
+  the 3D world through end-to-end training from image pairs. SuperGlue
+  outperforms other learned approaches and achieves state-of-the-art results on
+  the task of pose estimation in challenging real-world indoor and outdoor
+  environments. The proposed method performs matching in real-time on a modern
+  GPU and can be readily integrated into modern SfM or SLAM systems. The code
+  and trained weights are publicly available at
+  https://github.com/magicleap/SuperGluePretrainedNetwork.%
+    }
+    \verb{eprint}
+    \verb 1911.11763
+    \endverb
+    \field{title}{{SuperGlue: Learning Feature Matching with Graph Neural
+  Networks}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1911.11763
+    \endverb
+    \verb{file}
+    \verb :home/anton/Documents/ETH{\_}books/Seminar in Robotics/Marcin/SuperGl
+    \verb ue$\backslash$: Learning Feature Matching with Graph Neural Networks.
+    \verb pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Shakhnarovich2005NearestNeighborMI}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SG}{%
+         family={Shakhnarovich},
+         familyi={S\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Darrell},
+         familyi={D\bibinitperiod},
+         given={Trevor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=IP}{%
+         family={Indyk},
+         familyi={I\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGDTIP1}
+    \strng{fullhash}{SGDTIP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Nearest-Neighbor Methods in Learning and Vision: Theory and
+  Practice (Neural Information Processing)}
+    \field{year}{2005}
+  \endentry
+
+  \entry{visual_loc}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{https://www.visuallocalization.net/}
+    \field{title}{{The Visual Localization Benchmark,
+  www.visuallocalization.net}}
+  \endentry
+
+  \entry{yang2020ur2kid}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=YTY}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Tsun-Yi},
+         giveni={T\bibinitperiod-Y\bibinitperiod},
+      }}%
+      {{hash=NDK}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Duy-Kien},
+         giveni={D\bibinitperiod-K\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Heijnen},
+         familyi={H\bibinitperiod},
+         given={Huub},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Balntas},
+         familyi={B\bibinitperiod},
+         given={Vassileios},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YTY+1}
+    \strng{fullhash}{YTYNDKHHBV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{eprint}
+    \verb 2001.07252
+    \endverb
+    \field{title}{UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint
+  Description without Local Correspondence Supervision}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Zhang2019}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiahui},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Dawei},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Zixin},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=YA}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Anbang},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Tianwei},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yurong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Hongen},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=QL}{%
+         family={Quan},
+         familyi={Q\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZJ+1}
+    \strng{fullhash}{ZJSDLZYAZLSTCYLHQL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    Establishing correspondences between two images requires both local and
+  global spatial context. Given putative correspondences of feature points in
+  two views, in this paper, we propose Order-Aware Network, which infers the
+  probabilities of correspondences being inliers and regresses the relative
+  pose encoded by the essential matrix. Specifically, this proposed network is
+  built hierarchically and comprises three novel operations. First, to capture
+  the local context of sparse correspondences, the network clusters unordered
+  input correspondences by learning a soft assignment matrix. These clusters
+  are in a canonical order and invariant to input permutations. Next, the
+  clusters are spatially correlated to form the global context of
+  correspondences. After that, the context-encoded clusters are recovered back
+  to the original size through a proposed upsampling operator. We intensively
+  experiment on both outdoor and indoor datasets. The accuracy of the two-view
+  geometry and correspondences are significantly improved over the
+  state-of-the-arts.%
+    }
+    \verb{doi}
+    \verb 10.1109/ICCV.2019.00594
+    \endverb
+    \verb{eprint}
+    \verb 1908.04964
+    \endverb
+    \field{isbn}{9781728148038}
+    \field{issn}{15505499}
+    \field{pages}{5844\bibrangedash 5853}
+    \field{title}{{Learning two-view correspondences and geometry using
+  order-aware network}}
+    \field{volume}{2019-Octob}
+    \verb{file}
+    \verb :home/anton/Documents/ETH{\_}books/Seminar in Robotics/Marcin/Learnin
+    \verb g Two-View Correspondences and Geometry Using Order-Aware Network.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the IEEE International Conference on
+  Computer Vision}
+    \field{eprinttype}{arXiv}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput

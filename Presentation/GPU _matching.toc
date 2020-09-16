@@ -1,0 +1,20 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Literature review}{7}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Feature detection and description}{10}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Descriptors quality assessment}{31}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Matching of features}{35}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{GPU-based approaches}{48}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Practical part}{57}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {8}{Efficiency plots}{70}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {9}{Resume}{76}{0}{9}
